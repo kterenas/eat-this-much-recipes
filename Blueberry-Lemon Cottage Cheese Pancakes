@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Blueberry-Lemon Cottage Cheese Pancakes</title>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Blueberry-Lemon Cottage Cheese Pancakes",
+  "description": "High-protein cottage cheese pancakes with blueberries and fresh lemon.",
+  "recipeYield": "1 serving",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+
+  "recipeIngredient": [
+    "200 g Friendship 1% Low Fat No Salt Added Cottage Cheese",
+    "150 g liquid egg whites",
+    "50 g whole egg",
+    "30 g dry old-fashioned oats",
+    "75 g blueberries",
+    "5 g lemon juice",
+    "2 g lemon zest",
+    "2 g vanilla extract",
+    "2 g baking powder",
+    "1 g cinnamon",
+    "Cooking spray"
+  ],
+
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the cottage cheese, egg whites, whole egg, oats, lemon juice, lemon zest, vanilla, baking powder and cinnamon to a blender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend until a smooth pancake batter forms."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently stir the blueberries into the batter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Coat a nonstick skillet with cooking spray and heat over medium-low heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the pancakes until bubbles form and the edges begin to set, then flip and cook until done."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve warm."
+    }
+  ]
+}
+</script>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 750px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+h1, h2 { color: #333; }
+.note {
+  background: #f3f3f3;
+  padding: 15px;
+  border-radius: 8px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Blueberry-Lemon Cottage Cheese Pancakes</h1>
+
+<p>
+Soft, high-protein cottage cheese pancakes flavored with
+fresh lemon and blueberries.
+</p>
+
+<p><strong>Servings:</strong> 1</p>
+
+<div class="note">
+<strong>Measurement rule:</strong>
+Oats are weighed dry. Egg whites, whole egg and cottage cheese
+are weighed before cooking.
+</div>
+
+<h2>Ingredients</h2>
+
+<ul>
+  <li>200 g Friendship 1% Low Fat No Salt Added Cottage Cheese</li>
+  <li>150 g liquid egg whites</li>
+  <li>50 g whole egg</li>
+  <li>30 g dry old-fashioned oats</li>
+  <li>75 g blueberries</li>
+  <li>5 g lemon juice</li>
+  <li>2 g lemon zest</li>
+  <li>2 g vanilla extract</li>
+  <li>2 g baking powder</li>
+  <li>1 g cinnamon</li>
+  <li>Cooking spray</li>
+</ul>
+
+<h2>Directions</h2>
+
+<ol>
+  <li>
+    Add the cottage cheese, egg whites, whole egg, oats,
+    lemon juice, lemon zest, vanilla, baking powder and
+    cinnamon to a blender.
+  </li>
+  <li>Blend until smooth.</li>
+  <li>Gently stir the blueberries into the batter.</li>
+  <li>Coat a nonstick skillet with cooking spray.</li>
+  <li>
+    Cook pancakes over medium-low heat until the edges set
+    and bubbles appear.
+  </li>
+  <li>Flip and cook the second side until done.</li>
+  <li>Serve warm.</li>
+</ol>
+
+</body>
+</html>
