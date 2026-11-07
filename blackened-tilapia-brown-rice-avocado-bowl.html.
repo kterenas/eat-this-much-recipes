@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Blackened Tilapia, Brown Rice & Avocado Bowl</title>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Blackened Tilapia, Brown Rice & Avocado Bowl",
+  "description": "High-protein Cajun-style blackened tilapia served with brown basmati rice, avocado, corn and pepper salsa, and lime-yogurt sauce.",
+  "recipeYield": "1 serving",
+  "recipeCategory": "Lunch or Dinner",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "recipeIngredient": [
+    "220 g raw boneless tilapia fillet",
+    "100 g cooked Wegmans Basmati Brown Rice",
+    "50 g raw avocado flesh",
+    "40 g cooked corn kernels",
+    "60 g raw red bell pepper",
+    "30 g raw red onion",
+    "60 g nonfat plain Greek yogurt",
+    "5 g olive oil",
+    "15 g fresh lime juice",
+    "5 g raw fresh cilantro",
+    "2 g smoked paprika",
+    "2 g chili powder",
+    "1 g garlic powder",
+    "1 g ground cumin",
+    "1 g black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pat dry 220 g raw tilapia. Season with smoked paprika, chili powder, garlic powder, cumin and black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat 5 g olive oil in a nonstick skillet over medium-high heat. Cook tilapia approximately 3 to 5 minutes per side, depending on thickness, until it reaches an internal temperature of 145°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm 100 g previously cooked Wegmans Basmati Brown Rice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine 40 g cooked corn, 60 g diced raw red bell pepper, 30 g diced raw red onion, 5 g chopped cilantro and 10 g lime juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix 60 g nonfat plain Greek yogurt with the remaining 5 g lime juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place brown rice in a serving bowl. Add blackened tilapia, corn salsa and 50 g sliced avocado flesh. Drizzle with lime-yogurt sauce."
+    }
+  ]
+}
+</script>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 750px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+h1, h2 { color: #333; }
+.note {
+  background: #f3f3f3;
+  padding: 15px;
+  border-radius: 8px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Blackened Tilapia, Brown Rice & Avocado Bowl</h1>
+
+<p>
+A high-protein Cajun-style tilapia bowl with cooked
+brown basmati rice, fresh corn and pepper salsa,
+avocado and creamy lime-yogurt sauce.
+</p>
+
+<p><strong>Servings:</strong> 1</p>
+<p><strong>Prep:</strong> 15 minutes</p>
+<p><strong>Cook:</strong> 15 minutes</p>
+
+<div class="note">
+<strong>Measurement rules:</strong>
+Tilapia, avocado, bell pepper, red onion and cilantro
+are weighed raw. Brown rice and corn are weighed
+after cooking. Greek yogurt is weighed as packaged.
+All quantities are for one serving.
+</div>
+
+<h2>Ingredients</h2>
+
+<ul>
+<li>220 g raw boneless tilapia fillet</li>
+<li>100 g cooked Wegmans Basmati Brown Rice</li>
+<li>50 g raw avocado flesh</li>
+<li>40 g cooked corn kernels</li>
+<li>60 g raw red bell pepper</li>
+<li>30 g raw red onion</li>
+<li>60 g nonfat plain Greek yogurt</li>
+<li>5 g olive oil</li>
+<li>15 g fresh lime juice</li>
+<li>5 g fresh cilantro, raw</li>
+<li>2 g smoked paprika</li>
+<li>2 g chili powder</li>
+<li>1 g garlic powder</li>
+<li>1 g ground cumin</li>
+<li>1 g black pepper</li>
+</ul>
+
+<h2>Directions</h2>
+
+<ol>
+<li>
+Pat dry the raw tilapia and season with smoked
+paprika, chili powder, garlic powder, cumin
+and black pepper.
+</li>
+<li>
+Heat 5 g olive oil in a nonstick skillet over
+medium-high heat. Cook tilapia approximately
+3–5 minutes per side until the internal
+temperature reaches 145°F.
+</li>
+<li>
+Warm 100 g previously cooked brown basmati rice.
+</li>
+<li>
+Combine 40 g cooked corn, 60 g diced bell pepper,
+30 g diced red onion, 5 g chopped cilantro
+and 10 g lime juice.
+</li>
+<li>
+Mix 60 g nonfat Greek yogurt with the remaining
+5 g lime juice.
+</li>
+<li>
+Place rice in a bowl. Add the blackened tilapia,
+corn salsa and 50 g sliced avocado.
+Drizzle with lime-yogurt sauce.
+</li>
+</ol>
+
+</body>
+</html>
